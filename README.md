@@ -7,8 +7,5 @@
 
 ### Description of the attached files:
 * `Superstore.xls` contains the superstore sales dataset.
-* `Analysis.ipynb` contains my complete analysis of Sales dataset with forecasting using ARIMA and SARIMA models.
+* `Codes.ipynb` contains my complete analysis of Sales dataset with forecasting using ARIMA and SARIMA models.
 
-### References:
-* [A Guide to Time Series Data Forecasting with ARIMA in Python3](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3)
-* [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
